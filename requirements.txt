@@ -3,4 +3,8 @@ numpy
 seaborn
 xgboost
 catboost
+flask
+scikit-learn
+pickle-mixin
+
 -e ./
